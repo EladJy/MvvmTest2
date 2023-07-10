@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MVVMTest</string>
+    <string name="search_youtube_videos">Search youtube videos</string>
+    <string name="video_thumbnail">Video thumbnail</string>
+    <string name="no_videos">No videos</string>
+    <string name="empty_screen">Just an empty screen</string>
+    <string name="home">Search</string>
+    <string name="settings">Settings</string>
+</resources>
